@@ -1,8 +1,8 @@
 [УКР](#webpack-rent-ukr) | [EN](#webpack-english) | [DEU](#webpack-german)
 
-# webpack-frontend-template   
+  <h1 id="webpack-ukr">webpack-frontend-template</h1>
 
-<div id="webpack-ukr">
+<div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
         <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg">
     </a>
@@ -141,7 +141,7 @@ npm start
 </ul>
 
   ________________________________________________________________________________________________________________________________
-<div id="webpack-german"> # webpack-frontend-template</div>
+  <h1 id="webpack-german">webpack-frontend-template</h1>
 
 <div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
