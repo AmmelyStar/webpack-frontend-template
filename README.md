@@ -139,9 +139,9 @@ npm start
 </ul>
 
   ________________________________________________________________________________________________________________________________
-# webpack-frontend-template
+<div id="webpack-german"> # webpack-frontend-template</div>
 
-<div id="webpack-german">
+<div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
         <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg" alt="Webpack Logo">
     </a>
