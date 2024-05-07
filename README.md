@@ -74,8 +74,8 @@ npm start
 
   ________________________________________________________________________________________________________________________________
 
-<div align="center" id="webpack-english">
-  <h1 align="center">webpack-frontend-template</h1>
+
+  <h1 id="webpack-english">webpack-frontend-template</h1>
   
 <div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
