@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
-        <img width="150" height="150" src="../src/img/webpack-plain.svg">
+        <img width="150" height="150" src="/src/img/webpack-plain.svg">
     </a>
 </div>
 <br/>
