@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
-        <img width="150" height="150" src="img/webpack-plain.svg">
+        <img width="150" height="150" src="../src/img/webpack-plain.svg">
     </a>
 </div>
 <br/>
@@ -68,8 +68,8 @@ npm start
 
 ## Собрано
 
-*  [@Anna Radchenko](https://github.com/AmmelyStar) ||
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna--radchenko/)
+*  [@Anna Radchenko](https://github.com/AmmelyStar) 
+*  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna--radchenko/)
 
 
 
