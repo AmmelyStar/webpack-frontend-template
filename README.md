@@ -73,9 +73,11 @@ npm start
 *  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna--radchenko/)
 
   ________________________________________________________________________________________________________________________________
-# webpack-frontend-template
+
+<div align="center" id="webpack-english">
+  <h1 align="center">webpack-frontend-template</h1>
   
-<div id="webpack-english">
+<div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
         <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg" alt="Webpack logo">
     </a>
