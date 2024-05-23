@@ -1,23 +1,26 @@
 [УКР](#webpack-rent-ukr) | [EN](#webpack-english) | [DEU](#webpack-german)
 
-  <h1 id="webpack-ukr">webpack-frontend-template</h1>
+  <h1 id="webpack-ukr">webpack-react-template</h1>
 
 <div>
     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
         <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg">
     </a>
+     <a href="https://github.com/AmmelyStar/webpack-frontend-template">
+        <img width="150" height="150" src="http://www.w3.org/2000/svg">
+    </a>
 </div>
 <br/>
 <br/>
 
-
 ## Особливості збірки
 
-* використовується [Babel](https://babeljs.io/) для підтримки сучасного JavaScript (ES6) у браузерах
-* обираєте будь-який препроцесор SASS/SCSS
-* ваш CSS і JS оптимізується і мініфікується
-* встановлений пакет webpack-dev-server - вам не потрібно постійно перезавантажувати браузер
-* [ESlint](https://eslint.org/) дозволить зробити ваш код приємним і чистим
+- використовується [Babel](https://babeljs.io/) для підтримки сучасного JavaScript (ES6) у браузерах
+- обираєте будь-який препроцесор SASS/SCSS
+- ваш CSS і JS оптимізується і мініфікується
+- встановлений пакет webpack-dev-server - вам не потрібно постійно перезавантажувати браузер
+- [ESlint](https://eslint.org/) дозволить зробити ваш код приємним і чистим
+- Використовує [React](https://react.dev/) для розробки інтерфейсу користувача.
 
 ## Файлова структура
 
@@ -35,23 +38,20 @@ webpack-frontend-template
 │   ├── index.css
 │   ├── styles
 │   ├── index.html
-│ 
+│
 ├── .browserslistrc
-├── .gitignore  
+├── .gitignore
 ├──  package.json
 ├──  README.md
 ├── .gitignore
 └── webpack.config.js
 ```
 
-
-
 ## Команди
 
-* ```npm run dev``` - збираємо development
-* ```npm build-prod``` - збираємо production
-* ```npm start``` - стежимо за файлами та відкриваємо у браузері
-
+- `npm run dev` - збираємо development
+- `npm build-prod` - збираємо production
+- `npm start` - стежимо за файлами та відкриваємо у браузері
 
 ## Встановлення
 
@@ -69,11 +69,10 @@ npm start
 
 ## Зібрано
 
-*  [@Anna Radchenko](https://github.com/AmmelyStar) 
-*  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna--radchenko/)
+- [@Anna Radchenko](https://github.com/AmmelyStar)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna--radchenko/)
 
-  ________________________________________________________________________________________________________________________________
-
+---
 
   <h1 id="webpack-english">webpack-frontend-template</h1>
   
@@ -140,7 +139,8 @@ npm start
     <li><a href="https://www.linkedin.com/in/anna--radchenko/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
 </ul>
 
-  ________________________________________________________________________________________________________________________________
+---
+
   <h1 id="webpack-german">webpack-frontend-template</h1>
 
 <div>
@@ -205,5 +205,3 @@ npm start
     <li><a href="https://github.com/AmmelyStar">@Anna Radchenko</a></li>
     <li><a href="https://www.linkedin.com/in/anna--radchenko/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
 </ul>
-
-
